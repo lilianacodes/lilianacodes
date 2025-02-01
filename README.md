@@ -6,7 +6,7 @@ My name is <b>Liliana Shashina</b> (pronounced as: <i>Li-li-ana Sha-shi-na</i>).
 
 🎓 Graduated with a Bachelor's degree in Computer Science and Specialist's degree in System Analysis
 
-🚀 Constantly improving my skills & learning new technologies
+🚀 Continuously upgrading my skills and exploring new technologies
 
 🌱 Currently learning React JS & Vue JS
 
