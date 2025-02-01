@@ -12,11 +12,11 @@ My name is <b>Liliana Shashina</b> (pronounced as: <i>Li-li-ana Sha-shi-na</i>).
 
 💎 I love minimalism
 
-### Contact me
+## Contact me
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 
-### My Tech Stack
+## My Tech Stack
 
 #### Web development
 
