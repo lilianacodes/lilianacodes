@@ -1,6 +1,6 @@
-## Hello, world! 👋🏻
-
 ![Hello, world! 👋🏻](./creative-banner-github-lilianacodes.jpg)
+
+## Hello, world! 👋🏻
 
 My name is <b>Liliana Shashina</b> (pronounced as: <i>Li-li-ana Sha-shi-na</i>).
 
