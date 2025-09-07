@@ -2,16 +2,6 @@
 
 My name is <b>Liliana Shashina</b> (pronounced as: <i>Li-li-ana Sha-shi-na</i>).
 
-👩🏻‍💻 I'm a Software Engineer focusing on Frontend Development with strong passion for UI/UX Design
-
-🎓 Graduated with a Bachelor's degree in Computer Science and Specialist's degree in System Analysis
-
-🚀 Continuously upgrading my skills and exploring new technologies
-
-🌱 Currently learning React JS & Vue JS
-
-💎 Love minimalism
-
 ## Contact me
 
 <p>
